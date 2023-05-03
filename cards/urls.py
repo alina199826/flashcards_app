@@ -1,5 +1,4 @@
 from django.urls import path
-# Removed: from django.views.generic import TemplateView
 
 from cards.views import CardListView, CardCreateView, CardUpdateView, BoxView
 
